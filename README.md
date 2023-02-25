@@ -15,7 +15,7 @@
   <img alt="js" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript" />
 </p>
 
-- 🌱 I’m currently learning <img alt="react-native" src="https://img.shields.io/badge/-React%20Native-%2306bcee" />
+- 🌱 I’m currently open for a new role
 
 <!--
 **remrem12/remrem12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
