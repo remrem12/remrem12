@@ -1,6 +1,6 @@
 ### Hi there 👋 Thanks for visiting my github profile.
 
-<p>Welcome to my page! </br> I'm Bui Huu Nghia, Frontend developer from <b>Ho Chi Minh City, Viet Nam</b>
+<p>Welcome to my page! </br> I'm Bui Huu Nghia, a Software Engineer.
 <h3>Programming languages that I often use</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
